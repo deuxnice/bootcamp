@@ -6,96 +6,96 @@ bitcoin-cash,Bitcoin Cash
 eos,EOS
 stellar,Stellar
 litecoin,Litecoin
-tether,Tether
 cardano,Cardano
 monero,Monero
+tether,Tether
 tron,TRON
-iota,IOTA
 dash,Dash
+iota,IOTA
 binance-coin,Binance Coin
 neo,NEO
 ethereum-classic,Ethereum Classic
 nem,NEM
 tezos,Tezos
-vechain,VeChain
-dogecoin,Dogecoin
 zcash,Zcash
-maker,Maker
+vechain,VeChain
 bitcoin-gold,Bitcoin Gold
+maker,Maker
 omisego,OmiseGO
 0x,0x
-ontology,Ontology
-decred,Decred
+dogecoin,Dogecoin
+basic-attention-token,Basic Attenti...
 qtum,Qtum
+decred,Decred
+ontology,Ontology
 lisk,Lisk
-bitshares,BitShares
-aeternity,Aeternity
-bytecoin-bcn,Bytecoin
-bitcoin-diamond,Bitcoin Diamond
-digibyte,DigiByte
 zilliqa,Zilliqa
-icon,ICON
+aeternity,Aeternity
+bitcoin-diamond,Bitcoin Diamond
+bitshares,BitShares
 nano,Nano
+bytecoin-bcn,Bytecoin
+icon,ICON
 siacoin,Siacoin
+pundi-x,Pundi X
+digibyte,DigiByte
 steem,Steem
 verge,Verge
-waves,Waves
-pundi-x,Pundi X
-electroneum,Electroneum
-basic-attention-token,Basic Attenti...
 bytom,Bytom
+waves,Waves
+populous,Populous
+aurora,Aurora
+chainlink,Chainlink
 metaverse,Metaverse ETP
+golem-network-tokens,Golem
+augur,Augur
 trueusd,TrueUSD
 stratis,Stratis
-golem-network-tokens,Golem
+electroneum,Electroneum
 holo,Holo
-augur,Augur
+usd-coin,USD Coin
 komodo,Komodo
+paxos-standard-token,Paxos Standar...
 status,Status
-populous,Populous
-cryptonex,Cryptonex
-chainlink,Chainlink
 waltonchain,Waltonchain
-ardor,Ardor
-eternal-token,ETERNAL TOKEN
-aion,Aion
-kucoin-shares,KuCoin Shares
-wanchain,Wanchain
-iostoken,IOST
-reddcoin,ReddCoin
-mithril,Mithril
-cybermiles,CyberMiles
-digixdao,DigixDAO
-gxchain,GXChain
-aurora,Aurora
-digitex-futures,Digitex Futures
-loopring,Loopring
 maidsafecoin,MaidSafeCoin
-aelf,aelf
-huobi-token,Huobi Token
-hypercash,HyperCash
-moac,MOAC
-nebulas-token,Nebulas
-dentacoin,Dentacoin
-qash,QASH
-bancor,Bancor
-monacoin,MonaCoin
-funfair,FunFair
-ark,Ark
-decentraland,Decentraland
-loom-network,Loom Network
-rchain,RChain
-dropil,Dropil
-elastos,Elastos
-crypto-com,Crypto.com
-tenx,TenX
-zencash,Horizen
-power-ledger,Power Ledger
-pivx,PIVX
-theta-token,Theta Token
-dai,Dai
+cryptonex,Cryptonex
+wanchain,Wanchain
+ardor,Ardor
+mithril,Mithril
+iostoken,IOST
+kucoin-shares,KuCoin Shares
+aion,Aion
 wax,WAX
-nxt,Nxt
-kyber-network,Kyber Network
+ravencoin,Ravencoin
+nexo,Nexo
+bancor,Bancor
+decentraland,Decentraland
+loopring,Loopring
+eternal-token,ETERNAL TOKEN
+digixdao,DigixDAO
+ark,Ark
+gxchain,GXChain
+huobi-token,Huobi Token
+aelf,aelf
 polymath-network,Polymath
+hypercash,HyperCash
+veritaseum,Veritaseum
+reddcoin,ReddCoin
+pivx,PIVX
+qash,QASH
+zencash,Horizen
+monacoin,MonaCoin
+cybermiles,CyberMiles
+dai,Dai
+moac,MOAC
+crypto-com,Crypto.com
+loom-network,Loom Network
+dentacoin,Dentacoin
+nxt,Nxt
+funfair,FunFair
+nebulas-token,Nebulas
+revain,Revain
+theta-token,Theta Token
+tenx,TenX
 mixin,Mixin
